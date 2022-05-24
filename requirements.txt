@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+scikit-learn
+http://download.pytorch.org/whl/cpu/torch-0.4.0-cp36-cp36m-win_amd64.wh
+torchvision
+requests
+Pillow
+gunicorn == 20.0.4
